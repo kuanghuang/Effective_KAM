@@ -85,6 +85,7 @@ diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630
 dill @ file:///C:/ci_311/dill_1676433323862/work
 distlib==0.3.8
 distributed @ file:///C:/b/abs_7509xfv227/croot/distributed_1686866088894/work
+docopt==0.6.2
 docstring-to-markdown @ file:///C:/ci_311/docstring-to-markdown_1677742566583/work
 docutils @ file:///C:/ci_311/docutils_1676428078664/work
 entrypoints @ file:///C:/ci_311/entrypoints_1676423328987/work
@@ -126,7 +127,7 @@ intake @ file:///C:/ci_311_rebuilds/intake_1678999914269/work
 intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
 ipykernel @ file:///C:/b/abs_07rkft_vaz/croot/ipykernel_1691121700587/work
 ipympl==0.9.8
-ipython @ file:///C:/b/abs_e5729i179y/croot/ipython_1694181400005/work
+ipython==8.12.3
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
@@ -182,7 +183,7 @@ mdit-py-plugins @ file:///C:/ci_311/mdit-py-plugins_1676481827414/work
 mdurl @ file:///C:/ci_311/mdurl_1676442676678/work
 menuinst @ file:///C:/ci_311/menuinst_1678730372782/work
 miniful==0.0.6
-mistune @ file:///C:/ci_311/mistune_1676425149302/work
+mistune==3.2.0
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
 mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
 mkl-service==2.4.0
@@ -198,7 +199,7 @@ mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_169513105114
 navigator-updater @ file:///C:/b/abs_895otdwmo9/croot/navigator-updater_1695210220239/work
 nbclassic @ file:///C:/b/abs_c8_rs7b3zw/croot/nbclassic_1681756186106/work
 nbclient @ file:///C:/ci_311/nbclient_1676425195918/work
-nbconvert @ file:///C:/ci_311/nbconvert_1676425836196/work
+nbconvert==7.16.6
 nbformat @ file:///C:/b/abs_5a2nea1iu2/croot/nbformat_1694616866197/work
 ndindex==1.10.0
 nest-asyncio @ file:///C:/ci_311/nest-asyncio_1676423519896/work
@@ -230,6 +231,7 @@ pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow @ file:///C:/b/abs_153xikw91n/croot/pillow_1695134603563/work
+pipreqs==0.5.0
 pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
 pkginfo @ file:///C:/b/abs_d18srtr68x/croot/pkginfo_1679431192239/work
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
@@ -395,6 +397,7 @@ xxhash @ file:///C:/ci_311/python-xxhash_1676446168786/work
 xyzservices @ file:///C:/ci_311/xyzservices_1676434829315/work
 y-py @ file:///C:/b/abs_b7f5go6r0j/croot/y-py_1683662173571/work
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
+yarg==0.1.9
 yarl @ file:///C:/ci_311/yarl_1676432870023/work
 ypy-websocket @ file:///C:/b/abs_4e65ywlnv8/croot/ypy-websocket_1684172103529/work
 zict @ file:///C:/b/abs_fc7elavmem/croot/zict_1682698759288/work
